@@ -1,6 +1,6 @@
 
 # react-native-camera-kit
-
+Change CameraKitGalleryView backgroundColor to BLACK 
 Native camera control.
 
 ![](img/crazyUnicorn.png)  ![](img/zoom.png)
