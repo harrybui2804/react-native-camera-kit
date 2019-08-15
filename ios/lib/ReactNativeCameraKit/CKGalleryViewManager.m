@@ -160,7 +160,7 @@ static NSString * const CustomCellReuseIdentifier = @"CustomCell";
         [self.collectionView registerClass:[CKGalleryCollectionViewCell class] forCellWithReuseIdentifier:CellReuseIdentifier];
         [self.collectionView registerClass:[CKGalleryCustomCollectionViewCell class] forCellWithReuseIdentifier:CustomCellReuseIdentifier];
         [self addSubview:self.collectionView];
-        self.collectionView.backgroundColor = [UIColor whiteColor];
+        self.collectionView.backgroundColor = [UIColor blackColor];
     }
     else {
         self.collectionView.frame = self.bounds;
